@@ -4,7 +4,7 @@ I'm Ali Jalilpour Mounes, a Ph.D. prospective with a passion for advancing machi
 
 ## About Me
 
-- 🎓 Aspiring Ph.D. candidate with a passion for advancing machine learning and conducting top-notch research across various fields and tasks.
+- 🎓 Prospective Ph.D. candidate with a passion for advancing machine learning and conducting top-notch research across various fields and tasks.
 - 💻 Experienced in developing and implementing cutting-edge machine learning algorithms.
 - 🎓 Committed to continuous learning and staying up-to-date with the latest advancements in AI and ML.
 - 💡 Dedicated to producing high-quality research that contributes meaningfully to the field.
