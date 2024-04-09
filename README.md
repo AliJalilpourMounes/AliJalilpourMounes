@@ -15,7 +15,7 @@ I'm Ali Jalilpour Mounes, a Ph.D. prospective with a passion for advancing machi
 
 - Natural Language Processing (NLP)
 - Computer Vision
-- time series
+- Time Series
 - Deep Learning for Healthcare
 - AI Ethics and Fairness
 
